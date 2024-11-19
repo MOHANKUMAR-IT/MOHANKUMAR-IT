@@ -1,4 +1,4 @@
-#👋 Hi, I’m MOHAN KUMAR
+# 👋 Hi, I’m MOHAN KUMAR
 
 - 👀 I’m interested in Computer technology as a whole and too curious to know what i find next.
 - 🌱 I’m currently learning Distributed Systems with Golang,C++
