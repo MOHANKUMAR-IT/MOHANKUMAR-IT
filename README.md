@@ -1,4 +1,31 @@
-# 👋 Hi, I’m MOHAN KUMAR
+<h1 align="center">
+  <span style="font-size: 40px; 
+              font-family: 'Courier New', monospace; 
+              display: inline-block; 
+              white-space: nowrap; 
+              overflow: hidden; 
+              border-right: 3px solid;
+              animation: typing 3s steps(30) 1s forwards, blink-caret 0.75s step-end infinite;">
+    👋 Hi, I’m MOHAN KUMAR
+  </span>
+</h1>
+
+<style>
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
+</style>
 
 - 👀 I’m interested in Computer technology as a whole and too curious to know what i find next.
 - 🌱 I’m currently learning Distributed Systems 
