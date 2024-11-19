@@ -1,4 +1,5 @@
-- 👋 Hi, I’m MOHAN KUMAR
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi, I’m MOHAN KUMAR" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 - 👀 I’m interested in Computer technology as a whole and too curious to know what i find next.
 - 🌱 I’m currently learning Distributed Systems with Golang,C++
 - 💞️ I’m looking to collaborate on programming side
