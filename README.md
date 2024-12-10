@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Computer technology as a whole and too curious to know what i find next.
 - 🌱 I’m currently learning Distributed Systems 
-- 💞️ I’m looking to collaborate on programming side
+- 💞️ I’m looking to collaborate on software development
 - 📫 To reach me : mohankumarr2407@gmail.com
 
 
